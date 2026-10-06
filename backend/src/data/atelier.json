@@ -1,0 +1,42 @@
+{
+  "established": 1998,
+  "yearsOfTailoring": 27,
+  "artisansInHouse": 9,
+  "fittingsPerGown": 3,
+  "salons": [
+    {
+      "id": "jaipur",
+      "name": "Jaipur Courtyard Atelier",
+      "address": "Courtyard No. 4, Old Amber Road, Jaipur, Rajasthan 302002",
+      "phone": "+91 141 298 4400",
+      "hours": "Tuesday – Sunday, 10:00 AM – 7:00 PM"
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi Private Showroom",
+      "address": "Kalka Das Marg, Near Qutub Minar, Mehrauli, New Delhi 110030",
+      "phone": "+91 11 4988 2300",
+      "hours": "Wednesday – Monday, 11:00 AM – 8:00 PM"
+    }
+  ],
+  "stats": [
+    { "value": "27", "label": "years of tailoring" },
+    { "value": "9", "label": "artisans in-house" },
+    { "value": "3", "label": "fittings per gown" },
+    { "value": "100%", "label": "made to measure" }
+  ],
+  "crafts": [
+    {
+      "title": "Hand-Cut Patterns",
+      "description": "Single-layer shears on marble workbenches. We do not use electric stack cutters."
+    },
+    {
+      "title": "Jaipur Zardozi Needlework",
+      "description": "Hand-embroidered gold and silver bullion wire by generational Rajasthani craftsmen."
+    },
+    {
+      "title": "Three-Pass Inspection",
+      "description": "Every seam is inspected, basted, and unpicked up to three times if tension differs by a millimeter."
+    }
+  ]
+}

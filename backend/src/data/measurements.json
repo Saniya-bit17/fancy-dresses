@@ -1,0 +1,20 @@
+[
+  {
+    "id": "160c99e6-4811-442e-aeb0-62b13faebadb",
+    "reference": "MEAS-4874",
+    "clientName": "Pooja Singhania",
+    "email": "pooja@example.com",
+    "dressId": "solene-gown",
+    "measurements": {
+      "bust": 88,
+      "waist": 68,
+      "hip": 94,
+      "height": 168,
+      "highBust": 84,
+      "underBust": null,
+      "acrossBack": null,
+      "hollowToHem": 142
+    },
+    "createdAt": "2026-09-08T05:11:53.978Z"
+  }
+]

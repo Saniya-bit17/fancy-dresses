@@ -1,0 +1,13 @@
+[
+  {
+    "id": "4bfe5b33-a1b0-4360-99f9-e06fa6c91631",
+    "reference": "INQ-EE9E",
+    "inquiryType": "swatch",
+    "name": "Radhika Roy",
+    "email": "radhika@example.com",
+    "phone": "+91 99887 66554",
+    "message": "Requesting silk chiffon and French organza swatches in Bourgogne Imperial and Or Ambr�.",
+    "status": "pending",
+    "createdAt": "2026-09-08T05:11:28.983Z"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2ca246cb-2a88-4221-8197-57b828c4a9c6",
+    "reference": "MS-2026-7F46",
+    "location": "jaipur",
+    "dress": "The Solène Gown",
+    "date": "2026-10-15",
+    "timeSlot": "02:00 PM - 03:30 PM",
+    "fullName": "Pooja Singhania",
+    "email": "pooja@example.com",
+    "phone": "+91 98200 11223",
+    "eventDate": null,
+    "notes": "Autumn wedding reception in Udaipur.",
+    "status": "confirmed",
+    "createdAt": "2026-09-08T05:11:16.419Z"
+  }
+]
